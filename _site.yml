@@ -1,11 +1,11 @@
 name: "Ruan's Site"
 navbar:
-  title: "Ruan Parrott's Site"
+  title: "Ruan George Parrott"
   left:
     - text: "Home"
       href: index.html
-    - text: "Journal"
+    - text: "Template Tab"
       href: Journal.html
-    - text: "Links"
+    - text: "Template Tab"
       href: Links.html
 output_dir: "docs"
