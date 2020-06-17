@@ -8,4 +8,10 @@ navbar:
       href: Journal.html
     - text: "Template Tab"
       href: Links.html
+output: 
+  html_document:
+    includes:
+      after_body: footer.html
 output_dir: "docs"
+
+
