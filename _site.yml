@@ -12,6 +12,7 @@ output:
   html_document:
     includes:
       after_body: footer.html
+      in_header: GoogleAnalytics.html
 output_dir: "docs"
 
 
