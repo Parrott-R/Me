@@ -4,8 +4,8 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Template Tab"
-      href: Journal.html
+    - text: "R Tutorials"
+      href: R_Tutorials.html
     - text: "Template Tab"
       href: Links.html
 output: 
